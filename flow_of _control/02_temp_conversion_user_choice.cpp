@@ -1,6 +1,9 @@
-// program 02
 // Temperature conversion from fahrenheit to celsius & vice versa with user choice
-// 17 jun 21
+/* 
+17 Jun 21
+Mohammad Shahbaz Alam
+Program 9.1
+*/
 
 #include<iostream>
 using namespace std;
